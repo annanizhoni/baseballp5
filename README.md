@@ -30,29 +30,7 @@ The sketch consists of a baseball diamond with four bases and a baseball that mo
 
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
+Click on the green Code button and download the zip file. Click on the index.html file and view the interactive application in your browser.
 
 
 ## Roadmap
